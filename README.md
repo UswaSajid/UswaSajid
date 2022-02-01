@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/UswaSajid/UswaSajid/master/wave.gif" width="40px">
+### Hi, I'm Uswa Sajid <img src="https://raw.githubusercontent.com/UswaSajid/UswaSajid/master/wave.gif" width="40px">
 
 ## I am an Undergraduate Computer Systems Engineer | Passionately Curious | Learner!!!
 <img src="https://raw.githubusercontent.com/UswaSajid/UswaSajid/master/codes.gif" width="450px" img align = "right">
