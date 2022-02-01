@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source project involving CSS , python.
 - 🤔 I’m looking for help with Data structures and algorithms
 - ⚡ Fun fact: I need my space when do my work
-- "https://giphy.com/UswaSajid/UswaSajid/gifs/coding-programming-codeit-WUTywPPYZpdDChyBaZ" 
+ 
 
