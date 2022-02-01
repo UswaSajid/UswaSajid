@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/UswaSajid/UswaSajid/master/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/UswaSajid/UswaSajid/master/wave.gif" width="35px">
 
 
 
