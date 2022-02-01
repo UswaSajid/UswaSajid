@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/UswaSajid/UswaSajid/master/wave.gif" width="40px">
 
 ## I am an Undergraduate Computer Systems Engineer | Passionately Curious | Learner!!!
-<img src="https://raw.githubusercontent.com/UswaSajid/UswaSajid/gifs/coding-programming-codeit-WUTywPPYZpdDChyBaZ" width="450px" img align = "right">
+<img src="https://giphy.com/UswaSajid/UswaSajid/gifs/coding-programming-codeit-WUTywPPYZpdDChyBaZ width="450px" img align = "right">
 
 
 
