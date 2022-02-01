@@ -42,6 +42,20 @@
 </a>
 
 ---
+### 🌎Connect with me:
+
+
+[<img align="left" alt="Uswa Sajid | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Uswa Sajid | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
+
+
+<br />
+
+
+[linkedin]:https://www.linkedin.com/in/uswa-sajid-3ba255226/
+[gmail]: uswasajid0@gmail.com
+
+---
 
 
  
