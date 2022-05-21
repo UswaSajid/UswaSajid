@@ -2,9 +2,9 @@
 
 ## I am an Undergraduate Computer Systems Engineer | Passionately Curious | Learner!!!
 <img src="https://raw.githubusercontent.com/UswaSajid/UswaSajid/master/codes.gif" width="450px" img align = "right">
-- 🔭 I’m currently working on HTML , Cpp , python etc
-- 🌱 I’m currently learning with help from docs.github.com
-- 👯 I’m looking to collaborate on open source project involving Cpp , python.
+- 🌱 I’m currently Studying Computer systems engineering 
+- 🔭 I’m currently working on Assembly Language , Embedded Systems, python etc
+- 👯 I’m looking to collaborate on open source project involving assembly language , python.
 - 🤔 I’m looking for help with Data structures and algorithms
 - ⚡ Fun fact: I need my space when do my work
 
