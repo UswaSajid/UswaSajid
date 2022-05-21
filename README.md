@@ -5,7 +5,6 @@
 - 🌱 I’m currently Studying Computer systems engineering 
 - 🔭 I’m currently working on Assembly Language , Embedded Systems, python etc
 - 👯 I’m looking to collaborate on open source project involving assembly language , python.
-- 🤔 I’m looking for help with Data structures and algorithms
 - ⚡ Fun fact: I need my space when do my work
 
 ---
