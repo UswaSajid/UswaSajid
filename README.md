@@ -2,10 +2,8 @@
 
 ##  Computer Systems Engineer !!!
 <img src="https://raw.githubusercontent.com/UswaSajid/UswaSajid/master/codes.gif" width="450px" img align = "right">
-- 🌱 I’m currently Studying Computer systems engineering 
-- 🔭 I’m currently working on Assembly Language , Embedded Systems, python etc
-- 👯 I’m looking to collaborate on open source project involving assembly language , python.
-- ⚡ Fun fact: I need my space when do my work
+- 🌱 I’m Computer systems engineering 
+
 
 ---
 
