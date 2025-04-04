@@ -1,6 +1,6 @@
 ### Hi, I'm Uswa Sajid <img src="https://raw.githubusercontent.com/UswaSajid/UswaSajid/master/wave.gif" width="40px">
 
-## I am an Undergraduate Computer Systems Engineer | Passionately Curious | Learner!!!
+##  Computer Systems Engineer !!!
 <img src="https://raw.githubusercontent.com/UswaSajid/UswaSajid/master/codes.gif" width="450px" img align = "right">
 - 🌱 I’m currently Studying Computer systems engineering 
 - 🔭 I’m currently working on Assembly Language , Embedded Systems, python etc
