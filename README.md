@@ -2,7 +2,7 @@
 
 ##  Computer Systems Engineer !!!
 <img src="https://raw.githubusercontent.com/UswaSajid/UswaSajid/master/codes.gif" width="450px" img align = "right">
-- 🌱 I’m Computer systems engineering 
+- 🌱 I’m Computer systems engineer
 
 
 ---
